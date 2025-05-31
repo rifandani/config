@@ -1,2 +1,3 @@
-# config
+# Config
+
 windows and mac configs
