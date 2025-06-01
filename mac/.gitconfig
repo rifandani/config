@@ -1,0 +1,15 @@
+[user]
+	name = nriin-trizeki # rifandani
+	email = rizeki.rifandani@nri.co.id # ipandani2505@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = 
+	helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[credential "https://bs56-gitlab-dev.devops.aslead.cloud"]
+	provider = generic
+[http]
+	sslCert = /Users/rizeki.rifandani/Downloads/dipcore/cert.pem
+	sslKey = /Users/rizeki.rifandani/Downloads/dipcore/key.pem

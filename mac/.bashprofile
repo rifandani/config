@@ -1,0 +1,4 @@
+[[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
+export PATH=$PATH:$HOME/.maestro/bin
+
+. "$HOME/.local/bin/env"
