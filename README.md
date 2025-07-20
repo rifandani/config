@@ -36,3 +36,6 @@ To manage multiple SSH keys, we can use `~/.ssh/config` file. See [.ssh/config f
 ## Not-related to dev
 
 - install [free download manager](https://www.freedownloadmanager.org/download.htm)
+- install [WARP client](https://one.one.one.one/)
+- install [VLC](https://images.videolan.org/vlc/#download)
+- install [WinRAR](https://www.win-rar.com/download.html?&L=0)
