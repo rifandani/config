@@ -10,7 +10,10 @@
 - install [bun](https://bun.sh/docs/installation)
 - install [android studio](https://developer.android.com/studio) and emulator
 - install [expo orbit](https://expo.dev/orbit)
+- install [oh-my-posh](https://ohmyposh.dev/docs/installation/windows) and fonts
+- install [github cli](https://cli.github.com/)
 - install [eas cli](https://docs.expo.dev/build/setup/)
+- install [maestro cli](https://docs.maestro.dev/getting-started/installing-maestro)
 - install [postman](https://www.postman.com/downloads/)
 - install [dbeaver](https://dbeaver.io/download/)
 

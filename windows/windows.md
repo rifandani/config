@@ -11,3 +11,4 @@
 - docker desktop `C:\Program Files\Docker`
 - android studio `C:\Program Files\Android\Android Studio`
 - android sdk `C:\Users\triri\AppData\Local\Android\Sdk`
+- oh-my-posh config `~/.omp.json`
