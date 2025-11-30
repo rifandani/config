@@ -13,5 +13,4 @@
 
 ## Installation
 
-- install [marta](https://marta.sh/download/)
-- install [orbstack](https://orbstack.dev/download)
+-

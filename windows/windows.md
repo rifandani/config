@@ -12,3 +12,7 @@
 - android studio `C:\Program Files\Android\Android Studio`
 - android sdk `C:\Users\triri\AppData\Local\Android\Sdk`
 - oh-my-posh config `~/.omp.json`
+
+## Installation
+
+- install [NVIDIA App](https://www.nvidia.com/en-eu/software/nvidia-app/) and GeForce Game Ready Driver
